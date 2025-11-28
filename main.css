@@ -1,0 +1,286 @@
+.container {
+  width: 1510px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+body {
+  background-color: rgb(2, 2, 37);
+}
+.head {
+  color: white;
+  display: flex;
+  gap: 150px;
+  justify-content: center;
+}
+.group {
+  width: 44.04px;
+  height: 57px;
+  margin-top: 5px;
+}
+.Services {
+  display: flex;
+  gap: 10px;
+}
+.Artificial {
+  font-size: 22.55px;
+  font-weight: 600;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #3a68b8;
+  margin-bottom: 20px;
+}
+.btns {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+}
+.home {
+  border: none;
+  background-color: rgb(2, 2, 37);
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+}
+.sign {
+  width: 112px;
+  height: 52px;
+  background-color: #3a68b8;
+  font-weight: 600;
+  border-radius: 5px;
+  margin-top: 20px;
+  font-size: 16px;
+  color: #ffffff;
+  border: none;
+}
+.text {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding-bottom: 99px;
+}
+.texts {
+  color: white;
+  margin-top: 160px;
+  margin-left: 240px;
+}
+.Next {
+  font-weight: 600;
+  font-size: 18px;
+  color: #3a68b8;
+}
+.Syber {
+  width: 550px;
+  height: 142px;
+  font-size: 55px;
+  font-weight: 800;
+}
+.Lorem {
+  width: 558px;
+  height: 87px;
+  font-weight: 600;
+  font-size: 18px;
+  color: #ffffff99;
+}
+.two-btns {
+  display: flex;
+  gap: 20px;
+}
+.btn-one {
+  width: 171px;
+  height: 57px;
+  background-color: #3a68b8;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.btn-two {
+  width: 217px;
+  height: 57px;
+  background-color: #3a68b8;
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  gap: 10px;
+  padding-bottom: 55px;
+}
+.img-top {
+  width: 632px;
+  height: 634px;
+  margin-top: 70px;
+}
+.polygon {
+  width: 27px;
+  height: 26px;
+  margin-top: 18px;
+  margin-left: 25px;
+}
+.rasm {
+  margin-top: 89px;
+  margin-left: 240px;
+}
+.platform {
+  margin-left: 200px;
+  width: 600px;
+  height: 534px;
+}
+.deep {
+  width: 484px;
+  height: 104px;
+  font-weight: 700;
+  font-size: 40px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.txts {
+  color: white;
+  margin-top: 200px;
+  margin-left: 160px;
+}
+.welkom {
+  width: 73px;
+  height: 69px;
+}
+.card {
+  text-align: center;
+  background-color: #01122ea3;
+  width: 362px;
+  padding-top: 47px;
+  color: #ffffff7f;
+  border-radius: 10px;
+}
+.Naxly {
+  width: 310px;
+  height: 62px;
+  font-size: 25px;
+  font-weight: 700;
+}
+.Agency {
+  margin: 47px 30px;
+}
+.used {
+  width: 302px;
+  height: 104px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.cards {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.png {
+  margin-left: 725px;
+  margin-top: 50px;
+}
+.commonly {
+  color: white;
+  width: 548px;
+  margin-top: 70px;
+}
+.layouts {
+  width: 642px;
+  height: 551px;
+}
+.obtain {
+  margin-top: 200px;
+  display: flex;
+  gap: 100px;
+  margin-left: 150px;
+}
+.clients {
+  font-size: 40px;
+  font-weight: 700;
+}
+.take {
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff9d;
+  width: 460px;
+  margin-top: 20px;
+}
+.fot {
+  width: 284px;
+}
+.number {
+  font-size: 14px;
+  font-weight: 500;
+}
+.graud {
+  margin-top: 30px;
+}
+.gmail {
+  display: flex;
+  gap: 15px;
+  color: white;
+}
+.number {
+  width: 13px;
+  height: 10.4px;
+  margin-top: 23px;
+}
+.foot {
+  margin-left: 150px;
+  margin-top: 90px;
+  display: flex;
+  gap: 50px;
+}
+.INFORMATION {
+  font-weight: 500;
+  font-size: 16px;
+  color: #ffffff;
+}
+.sevaen {
+  font-weight: 450;
+  font-size: 14px;
+  color: #ffffff85;
+}
+.seven {
+  margin-top: 75px;
+}
+.sevens {
+  display: flex;
+  gap: 100px;
+}
+.tarmoq {
+  display: flex;
+  gap: 25px;
+}
+.bottom {
+  color: white;
+  margin-top: 75px;
+}
+.btn-ohr {
+  display: flex;
+  gap: 10px;
+  border: none;
+  background-color: rgb(2, 2, 37);
+  color: white;
+  margin-top: 20px;
+  font-size: 14px;
+  font-weight: 450;
+}
+.btn-img {
+  width: 13.04px;
+  height: 13px;
+  margin-top: 15px;
+}
+.company {
+  font-size: 14px;
+  font-weight: 500;
+}
+.mockups {
+  color: #ffffff85;
+  font-weight: 450;
+  font-size: 14px;
+  width: 261px;
+}
+.store {
+  font-size: 16px;
+  font-weight: 500;
+}
